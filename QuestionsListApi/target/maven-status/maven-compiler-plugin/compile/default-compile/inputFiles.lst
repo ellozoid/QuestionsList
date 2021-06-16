@@ -1,0 +1,10 @@
+C:\Users\Bogdan\eclipse-workspace\PianoTask\src\main\java\com\questionsList\service\interfaces\Repository.java
+C:\Users\Bogdan\eclipse-workspace\PianoTask\src\main\java\com\questionsList\service\repository\RepositoryFactory.java
+C:\Users\Bogdan\eclipse-workspace\PianoTask\src\main\java\com\questionsList\service\repository\BaseRepository.java
+C:\Users\Bogdan\eclipse-workspace\PianoTask\src\main\java\com\questionsList\filters\CORSFilter.java
+C:\Users\Bogdan\eclipse-workspace\PianoTask\src\main\java\com\questionsList\service\helpers\HttpRequestService.java
+C:\Users\Bogdan\eclipse-workspace\PianoTask\src\main\java\com\questionsList\service\repository\StackExchangeRepository.java
+C:\Users\Bogdan\eclipse-workspace\PianoTask\src\main\java\com\questionsList\service\api\QuestionsApiService.java
+C:\Users\Bogdan\eclipse-workspace\PianoTask\src\main\java\com\questionsList\service\helpers\StackExchangeJsonHelper.java
+C:\Users\Bogdan\eclipse-workspace\PianoTask\src\main\java\com\questionsList\models\QuestionResponseModel.java
+C:\Users\Bogdan\eclipse-workspace\PianoTask\src\main\java\com\questionsList\models\QuestionModel.java
